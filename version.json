@@ -1,0 +1,9 @@
+{
+    "version": "0.2.3",
+    "min_version": "0.2.3",
+    "strict": true,
+    "url": "https://github.com/Fanny2712/moonlight-releases/releases/latest/download/MoonlightSetup.exe",
+    "sha256": "21537389b31ce080a4d8c4e5be8fd036ee1a7608d41569cd17757e53c386a746",
+    "notes": "Moonlight v0.2.3",
+    "sig": "5e5adb6c907b2a49484b6645a9bea9cca48fc8e4d5183a6adc4c8b0ab65268ff64e0ea86c44292a56b4d2fdfa1ebbb1bc2d1d8b0efb7d4ccafc8c10fe129d605"
+}
